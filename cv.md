@@ -39,5 +39,5 @@ const sumSquareDifference = n => {
 * Freecodecamp (JS, HTML, CSS).
 
 ## Languages
-* russian(native);
+* Russian(native);
 * Engliah (A2/B1).
